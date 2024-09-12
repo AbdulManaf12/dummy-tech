@@ -2,4 +2,7 @@ This is Dummy Demo
 
 Just to learn the concept of branching in the git
 
+There were issues with this concept
+
+
 Let's go here.
